@@ -1,0 +1,33 @@
+Quickbooks
+- Getting started
+- Creating a New Customer
+- Creating a New Job
+- Updating a Customer Record
+- Updating a Job Record
+- Marking a Job as Inactive
+
+CRF
+- Creating a New Job Notice
+- Updating a New Job Notice
+- Rescinding a Job Notice
+- Viewing Jobs (In Progress/Finished)
+  - Commonly used filters
+- Saving the Prelim
+
+Insurance
+- New Certificate Request
+- Revision Request
+- Renewal Request
+- Inactivation Request
+
+Job Documents Organization
+- Billing folder structure
+  - Contents of each folder
+- Archiving a Job
+
+Quotes
+- Info to gather
+- Who to send to
+  
+
+General Procedures
